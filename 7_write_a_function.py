@@ -19,3 +19,10 @@ def is_leap(year):
 
 year = int(input())
 print(is_leap(year))
+
+'''
+git add .
+git commit -m "message"
+git push origin master
+
+'''
