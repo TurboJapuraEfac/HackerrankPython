@@ -22,7 +22,8 @@ print(is_leap(year))
 
 '''
 git add .
-git commit -m "message"
+git commit -m 'Comments to be added'
+git pull origin master
 git push origin master
 
 '''
